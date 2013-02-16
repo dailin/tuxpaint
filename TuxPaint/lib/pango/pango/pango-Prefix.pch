@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'pango' target in the 'pango' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'iconv' target in the 'iconv' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
